@@ -20,8 +20,8 @@
 ## 👨‍💻 **About Me**
 
 - 🏫 **Software Engineering Student** at Duy Tan University.
-- 🏗️ Crafting **scalable microservices** and **blockchain solutions**.  
-- 🎯 Passionate about **Web3**, **AI-powered solutions**, and **building impactful software**.
+- 🏗️ Crafting **scalable microservices** and **modern web solutions**.  
+- 🎯 Passionate about **AI-powered solutions**, and **building impactful software**.
 - 🎨 A firm believer in the **art of coding** and how it connects logic with creativity.
 
 ---
@@ -36,7 +36,6 @@
 | **Backend**          | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
 | **Databases**        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **DevOps**           | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| **Blockchain**       | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) |
 | **Tools & Others**   | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
   
 </div>
@@ -45,7 +44,6 @@
 
 ## 🚀 **Current Projects**
 
-- 🔗 **Blockchain Marketplace**: Decentralized app for peer-to-peer trading.
 - 🌐 **AI-powered Movie Search**: A web platform integrated with Vue.js and Laravel.  
 - 🧩 **Microservices Framework**: Template for scalable microservices architecture.
 
@@ -53,9 +51,9 @@
 
 ## 🎯 **What's Next?**
 
-- 🌍 Delving deeper into **Layer 2 blockchain scaling**.  
+- 🌍 Delving deeper into **modern web frameworks and architecture**.  
 - 📚 Enhancing skills in **machine learning integration with microservices**.  
-- 🤝 Collaborating on **open-source blockchain projects**.
+- 🤝 Collaborating on **open-source projects**.
 
 ---
 
