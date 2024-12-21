@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Vo Van Viet!
+I'm a software developer with expertise in:
+- 🌟 Vue.js, Laravel, and Node.js
+- 🌐 Building modern web applications
+- 🤖 AI-powered solutions
 
-<!--
-**vietvo371/vietvo371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- [My Movie Website](https://github.com/username/movie-website)  
+  A movie-watching website with integrated AI search.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Ant Design, advanced Vue.js techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
