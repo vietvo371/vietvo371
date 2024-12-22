@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 **Welcome to Vo Van Viet's GitHub Universe!** 🌟  
-### 🎓 *Full Stack Developer | Software Enthusiast*  
+### 🎓 *Web Developer | Software Enthusiast*  
 
 ---
 
@@ -45,10 +45,21 @@
 
 ## 🚀 **Current Projects**
 
-- 🌐 **AI-powered Movie Search**: Leveraging Vue.js and Laravel to create a seamless movie search experience.  
-- 🧩 **Scalable Microservices Framework**: A modular and flexible solution for building enterprise-level software.
+- 🌐 **Movie Streaming Platform (Netflix Clone)**: Developed a full-featured movie streaming platform using Vue.js and Laravel, integrated with secure real-time payment via MB Bank. The platform also incorporates AI-powered features for personalized movie recommendations and user assistance.  
+
+🧩 **RELIEFLINK - Emergency Response System**: A project created for the **Open Source Software Competition - Vietnam Student Olympiad in Informatics 2024**, open-sourced under the MIT License by Team DTU_DZ.  
+**RELIEFLINK** is an emergency relief system leveraging open-source technologies to efficiently manage and deliver critical resources during disaster scenarios. Key technologies include:  
+- **Appsmith**: Used for building a user-friendly and customizable interface for managing rescue operations.  
+- **Docker**: Ensures scalability and portability of the system across various platforms.  
+- **MongoDB**: A robust NoSQL database for storing and managing real-time data on resources and locations.  
+- **Real-time Socket Communication**: Facilitates instant updates and coordination among rescue teams.  
+- **OpenStreetMap (OSM)**: Provides detailed and open-source mapping capabilities for tracking and allocating resources.  
+
+By integrating these technologies, the system aims to optimize relief operations, minimize response times, and ensure resources reach those in need quickly and efficiently.  
+
 
 ---
+
 
 ## 🎯 **What's Next?**
 
