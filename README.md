@@ -60,13 +60,27 @@
 
 ---
 
+## 📈 **GitHub Stats**
+
+<div align="center">
+
+[![Vo Van Viet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vietvo371&show_icons=true&theme=radical)](https://github.com/vietvo371)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietvo371&layout=compact&theme=radical)](https://github.com/vietvo371)
+
+</div>
+
 ## 📬 **Connect with Me**
 
-- **Email**: vietvo371@gmail.com  
-- **Portfolio**: [vietvo371.github.io](https://vietvo371.github.io/Portfolio)  
-- **LinkedIn**: [Vo Van Viet](https://www.linkedin.com/in/vo-van-viet-3b54a5266)
+<div align="left">
 
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vietvo371@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vietvo371.github.io/Portfolio)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vo-van-viet-3b54a5266)  
+
+</div>
+
+
 
 *"Dream big, code smart, build impactful solutions."*
 
