@@ -10,7 +10,7 @@
 "**Code is like poetry; each line tells a story.**"  
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vietvo371) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vietvo371)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vo-van-viet-3b54a5266)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://vietvo371.github.io/Portfolio/)
 
 </div>
@@ -75,7 +75,7 @@
 
 💌 **Email**: vietvo371@gmail.com  
 🌐 **Portfolio**: [vietvo371.com](https://vietvo371.github.io/Portfolio)  
-📱 **LinkedIn**: [linkedin.com/in/vietvo371](https://linkedin.com/in/vietvo371)  
+📱 **LinkedIn**: [https://www.linkedin.com/in/vo-van-viet-3b54a5266)  
 
 ---
 
