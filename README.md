@@ -3,7 +3,7 @@
 # 🌟 **Welcome to Vo Van Viet's GitHub Universe!** 🌟  
 ### 🎓 *Web Developer | Software Enthusiast*  
 
-<img src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/457463597_996207105523606_3153657822915934238_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=W1IGPJdtS4UQ7kNvgHnY1yW&_nc_oc=AdjWxZ9jLpA5iNxhMExed-3Eb9EiWtbAnSCo8ZvhZ-oG3q18AkB_IYyD2NbsS6_lQus&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=AmJWyEwxmD44eohDOiAu-UI&oh=00_AYBwaBZp_wSXr9JiwznIw3dimRyoi__BS55GZLHFQqpQZw&oe=676C424C" width="500" alt="Vo Van Viet - Full Stack Developer" />
+<img src="https://wopai-be.dzfullstack.edu.vn/uploads/avatars/admins/1738747775_397776463_826354595842192_5308467141072020650_n.jpg" width="500" alt="Vo Van Viet - Full Stack Developer" />
 
 **"Code is where creativity meets innovation."**
 
@@ -35,6 +35,8 @@
 | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **DevOps**           | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Tools & Others**   | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Game Development** | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)        |
+
 </div>
 
 ---
@@ -52,6 +54,13 @@
   - **OpenStreetMap** and **socket communication** for resource tracking and coordination.  
 
 ---
+## 🎮 Game Development Skills
+
+- **2D Game Development with Unity**
+  - Experienced in creating engaging 2D games using Unity.
+  - Proficient in C# for scripting game logic and managing events.
+  - Skilled in level design, gameplay mechanics, and performance optimization.
+
 
 ## 🎯 **What's Next?**
 
@@ -77,6 +86,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vietvo371@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vietvo371.github.io/Portfolio)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vo-van-viet-3b54a5266)  
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+
 
 </div>
 
