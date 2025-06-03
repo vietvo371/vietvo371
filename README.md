@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 **Vo Van Viet** 🌟
-### 🚀 *Full Stack Developer | AI Enthusiast | Award-Winning Graduate*
+### 🚀 *Full Stack Developer | AI Enthusiast *
 
 <img src="/Assets/image/AVT-1.jpg" width="400" alt="Vo Van Viet - Full Stack Developer" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 
