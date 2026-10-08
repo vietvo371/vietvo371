@@ -7,8 +7,8 @@ codebases — one of them live today on both the App Store and Google Play. I bu
 end to end and contribute the API behind it, so I can own a product surface from schema to store
 release without the work being split up first.
 
-[Portfolio](https://wdevvn.vercel.app/about) ·
-[Blog](https://wdevvn.vercel.app/blog) ·
+[Portfolio](https://wdevvn.vercel.app/en/about) ·
+[CV](https://wdevvn.vercel.app/en/cv) ·
 [Email](mailto:vietvo371@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/vo-van-viet-3b54a5266)
 
@@ -51,7 +51,7 @@ developers and students.
 
 ## Selected projects
 
-### [wdev.vn](https://wdevvn.vercel.app) — publishing platform
+### [wdev.vn](https://wdevvn.vercel.app/en) — publishing platform
 *Solo project · `Next.js 14` `TypeScript` `Supabase` `Notion API` `three.js`*
 
 Full publishing and agency platform built solo on the Next.js 14 App Router: blog, project case
