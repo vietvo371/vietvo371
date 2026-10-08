@@ -82,6 +82,27 @@ dashboards, live geographic visualisation and real-time updates over Socket.io.
 
 ---
 
+## More work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [AgriMRV](https://github.com/vietvo371/AgriMRV) | Carbon MRV for smallholder farmers — turns sustainable practice into carbon credits and green financing, with blockchain-backed reports, credit scoring and loan suggestions | Laravel · React Native |
+| [GreenEduMap](https://github.com/vietvo371/GreenEduMap) | Smart-city open data platform: realtime 3D map of air quality, temperature and green energy, with a personalised advisory bot | TypeScript · 3D mapping |
+| [SmartReportAI](https://github.com/vietvo371/SmartReportAI_Web) | Civic incident reporting and resolution, with separate citizen and administrator consoles | Next.js · TypeScript |
+| [AegisFlowAI](https://github.com/vietvo371/AegisFlowAI) | Autonomous agent platform for enterprise workflow automation and decision support | TypeScript · Python · LLM |
+| [CivicTwinAI](https://github.com/vietvo371/CivicTwinAI) | Disaster response and community resilience with real-time incident tracking | React Native · Google Maps |
+| [AuraClip-AI](https://github.com/vietvo371/AuraClip-AI) | Automates short-form video production from script through to publishing | TypeScript |
+| [VIBE_EDITER](https://github.com/vietvo371/VIBE_EDITER) | AI video editing toolkit for automated content creation and scene composition | Python · FFmpeg · Remotion |
+| [dzacademy](https://github.com/vietvo371/dzacademy) | Vietnamese programming school — learn by shipping real projects | Next.js · TypeScript |
+
+**Open data for Vietnam entry compliance**, published under the
+[vietentry](https://github.com/vietentry) organisation: the
+[41 designated entry ports with eVisa photo specs and stay-duration rules](https://github.com/vietentry/awesome-vietnam-travel-compliance)
+as CSV and JSON, a [link-checked index of entry and visa resources](https://github.com/vietentry/awesome-vietnam-travel),
+and [reference guides on border checkpoints, airport transfers and eSIM coverage](https://github.com/vietentry/vietnam-travel-reference-guides).
+
+---
+
 ## Technical skills
 
 | | |
@@ -96,21 +117,6 @@ dashboards, live geographic visualisation and real-time updates over Socket.io.
 | **AI tooling** | Claude Code integrated into build, test and review workflow |
 
 ---
-
-## Certifications
-
-- **AWS Certified Developer – Associate** (DVA-C02) — Amazon Web Services, Mar 2026
-- **Certified Laravel Developer, Stage 2** — Certificates.dev, Nov 2025
-- **Meta React Native Specialization** — Coursera, Aug 2025
-- **Google Associate Cloud Engineer** — Google Cloud, Jan 2026
-
-## Awards
-
-- **First Prize**, Vietnam Mobile Hackathon 2026 — team of 4, out of 180 competing teams
-- **Best Open Source Contribution**, DevFest Đà Nẵng 2025
-- **Runner-up**, FPT Edu Hackathon 2024 — realtime logistics tracking category
-- **Top 10**, Google Solution Challenge 2025 (Southeast Asia region)
-- **Consolation Award**, Open Source Software category — Vietnam Student Informatics Olympiad 2024
 
 ## Education
 
