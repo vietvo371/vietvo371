@@ -7,8 +7,8 @@ codebases — one of them live today on both the App Store and Google Play. I bu
 end to end and contribute the API behind it, so I can own a product surface from schema to store
 release without the work being split up first.
 
-[wdevvn.vercel.app](https://wdevvn.vercel.app) ·
-[Portfolio](https://vietvo371.github.io/Portfolio/) ·
+[Portfolio](https://wdevvn.vercel.app/about) ·
+[Blog](https://wdevvn.vercel.app/blog) ·
 [Email](mailto:vietvo371@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/vo-van-viet-3b54a5266)
 
